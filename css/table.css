@@ -1,0 +1,26 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+    overflow-x: auto;
+    padding-top: 30px;
+}
+
+.table__header {
+    background-color: coral;
+    color: black;
+}
+
+.table__cell {
+    border: coral solid 1px;
+    padding: 13px;
+    text-align: center;
+}
+
+.table__row:nth-child(even) {
+    background: #00000021;
+}
+
+.table__row:hover {
+    background: #ffffff2d;
+}

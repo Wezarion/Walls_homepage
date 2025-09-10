@@ -1,0 +1,35 @@
+.navigation {
+    font-size: 18px;
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 10px;
+    border-top: 1px solid coral;
+    border-bottom: 1px solid coral;
+    margin-bottom: 0;
+}
+
+.navigation__link {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.navigation__link:visited {
+    color: violet;
+}
+
+.navigation__link:focus {
+    outline-offset: 1px;
+    outline: 1px dashed #b700ff;
+}
+
+.navigation__link:active {
+    color: green;
+}
+
+.navigation__switchModeButton {
+    border: 1px solid coral;
+    background-color: #020004;
+    color: white;
+    margin-top: 5px;
+    padding: 6px;
+}
