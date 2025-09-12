@@ -1,4 +1,8 @@
 .navigation {
+    display: flex;
+    flex-direction: row;
+    align-self: space-between;
+    flex-basis: 960px;
     font-size: 18px;
     list-style: none;
     padding-left: 0;
@@ -6,6 +10,10 @@
     border-top: 1px solid coral;
     border-bottom: 1px solid coral;
     margin-bottom: 0;
+}
+
+.navigation__item{
+    padding: 10px;
 }
 
 .navigation__link {
