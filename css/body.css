@@ -5,8 +5,9 @@
     background-color: #fff9f2;
     color: black;
     padding: 0 10px;
-    display: inline-flex;
+    display: flex;
     flex-direction: column;
+    max-width: 900px;
     align-items: center;
     margin: 0 auto;
 }
@@ -19,8 +20,9 @@
     background-color: #020004;
     color: white;
     padding: 0 10px;
-    display: inline-flex;
+    display: flex;
     flex-direction: column;
+    max-width: 900px;
     align-items: center;
     margin: 0 auto;
 }
