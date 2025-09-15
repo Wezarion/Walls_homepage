@@ -2,6 +2,7 @@
 The most common defense systems that could be found on ancient walls, ramparts, and palisades.
 
 ## Demo
+![fortifications of walls screenschot](<images/WallDemo.gif>)
 https://wezarion.github.io/fortification_of_walls/
 
 ## Technologies
