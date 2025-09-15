@@ -5,5 +5,5 @@ The most common defense systems that could be found on ancient walls, ramparts, 
 
 
 ## Technologies
--The website is built with the following languages: HTML, JavaScript, CSS.
--Code creation was based on BEM conventions.
+- The website is built with the following languages: HTML, JavaScript, CSS.
+- Code creation was based on BEM conventions.
